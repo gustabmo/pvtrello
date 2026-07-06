@@ -1,3 +1,6 @@
 .DS_Store
+.clasp.json
 private.gs
 private.js
+Private.gs
+Private.js
